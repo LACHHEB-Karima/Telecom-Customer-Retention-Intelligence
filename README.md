@@ -483,7 +483,6 @@ The current solution provides a strong foundation, but several improvements coul
 * Add probability-based churn risk scores.
 * Create Low / Medium / High risk customer segments.
 * Add customer lifetime value to retention prioritization.
-* Introduce explainable AI techniques such as SHAP.
 * Automate model retraining.
 * Connect Power BI directly to regularly updated prediction results.
 * Develop automated retention recommendations based on churn drivers.
@@ -514,6 +513,4 @@ By combining **SQL, Python, Machine Learning, and Power BI**, the project transf
 
 **Karima LACHHEB**
 
-Master's in Big Data & Cloud Computing
 
-Data Analytics | Business Intelligence | Machine Learning
